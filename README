@@ -1,0 +1,40 @@
+*************************************************************************
+**                                                                     **
+**           csf-codes - Computer Science Fundamentals codes           **
+**                                                                     **
+**                              README File                            **
+**                                                                     **
+*************************************************************************
+
+    csf-codes is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published
+    by the Free Software Foundation, either version 3 of the License,
+    or (at your option) any later version.
+
+    csf-codes is distributed in the hope that it will be useful, but
+    WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+    General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see
+    <http://www.gnu.org/licenses/>.
+
+Goal:
+
+The goal of this project is to host the source codes for the "Computer
+Science Fundamentals" course at the State University of Rio de
+Janeiro.
+
+Note:
+
+The csf-codes repository is based on the Princeton textbook:
+Introduction to Programming in Java; copyright by Robert Sedgewick and
+Kevin Wayne.  The codes from this textbook were translated to a
+simple-to-learn language, Pascal, and several other codes were added.
+The Makefile and codes were written using Ubuntu Linux distribution
+and GPC (Gnu Pascal Compiler).
+
+Author:
+
+    Prof. Dr. Maximo, Andre (andmax@gmail.com)
