@@ -1,15 +1,17 @@
 
+RM = rm -f
 PC = gpc
 
 SRC = $(wildcard *.pas)
 EXE = $(SRC:.pas=.exe)
 
-
-all: $(EXE)
+all: $(EXE) cleanobjs
 
 %.exe: %.pas
 	$(PC) --automake $< -o $@
 
-clean:
-	rm -f *~ *.gpi *.o *.exe
+clean: cleanobjs
+	$(RM) *~ *.exe
 
+cleanobjs:
+	$(RM) *.gpi *.o
