@@ -1,10 +1,10 @@
 program ruler;
 uses crt;
 var
-   ruler1 : string;
-   ruler2 : string;
-   ruler3 : string;
-   ruler4 : string;
+   ruler1 : string[1];
+   ruler2 : string[5];
+   ruler3 : string[13];
+   ruler4 : string[29];
    ch	  : char;
 begin
    clrscr;
