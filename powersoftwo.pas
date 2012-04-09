@@ -20,3 +20,5 @@ end.
 
 { escrever 2^i = v }
 { nao incluir o valor entrado }
+{ ler um int e dizer qual potencia de 2 mais proxima (pra cima) }
+{ ler um int e dizer quantos bits eh necessario para representa-lo }
