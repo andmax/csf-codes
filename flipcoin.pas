@@ -9,11 +9,11 @@ begin
    n := random(2);
    if (n = 0) then
    begin
-      writeln("Cara");
+      writeln('Cara');
    end
    else
    begin
-      writeln("Coroa");
+      writeln('Coroa');
    end;
    ch := readkey;
 end.
