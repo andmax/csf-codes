@@ -1,4 +1,4 @@
-program ex14;
+program pa01ex14; { parte 1 exercicio 14 }
 uses crt;
 var
    d, m, c    : integer;

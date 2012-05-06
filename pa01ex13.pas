@@ -1,4 +1,4 @@
-program ex13;
+program pa01ex13; { parte 1 exercicio 13 }
 uses crt;
 var
    x, v, t, g, p : real;
