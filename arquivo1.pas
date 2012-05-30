@@ -15,7 +15,7 @@ end;
 
 begin 
    clrscr;
-   assign(f, './arquivo1.pas');
+   assign(f, 'arquivo1.pas');
    reset(f);
    EscreveArquivo;
    close(f);

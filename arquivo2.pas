@@ -24,7 +24,7 @@ end;
 
 begin 
    clrscr;
-   assign(f, './array.txt');
+   assign(f, 'array.txt');
    rewrite(f);
    PreencheArray;
    EscreveArray;
