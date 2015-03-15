@@ -1,0 +1,1 @@
+The goal of this project is to host the source codes for the "Computer Science Fundamentals" course at the State University of Rio de Janeiro.
